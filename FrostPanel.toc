@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: FrostPanel
+## Notes: A modular paneling system
+## Author: berwyn
+## Version: 1.0
+## SavedVariables: FrostPanelDB
+
+## X-Website: https://github.com/berwyn/FrostPanel
+## X-License: MIT
+
+embeds.xml
+frosty.xml
